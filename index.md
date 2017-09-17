@@ -1,19 +1,27 @@
 ## Welcome to Bubbles for Kodi
 
-You can use the [editor on GitHub](https://github.com/bubblesaddon/Bubbles/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The new Bubble Kodi add-on brings a large streaming movie and TV show add-on from file hosts, torrents, and usenet. Bubbles uses Premiumize and Real-Debrid as its backbone, which provides some awesome Kodi features. Read on for more info.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can read how to install Bubbles addon from our friend [Kodi Add-ons Expert](https://kodi.expert/bubbles-kodi/) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
+
+### Bubbles is the best Kodi Add-on but you need to be a PRO to configure it
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+#Bubbles Kodi Addon v2.4 Change Log
 
-# Header 1
-## Header 2
-### Header 3
+Added local Kodi library integration
+Added a setting to access the Premiumize API using GET requests
+Improved the automatic scripts during Kodi startup
+Fixed the non-found providers for the custom location.
+Fixed Premiumize usage label and filters.
+Updated the Premiumize hoster list.
+Fixed Premiumize hoster domain detection.
+Update downloader and added navigation for other downloads.
+Many small changes, updates, and bug fixes.
+
 
 - Bulleted
 - List
@@ -27,10 +35,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bubblesaddon/Bubbles/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
