@@ -1,13 +1,16 @@
-## Welcome to Bubbles for Kodi
+# Welcome to Bubbles for Kodi
 
 The new Bubble Kodi add-on brings a large streaming movie and TV show add-on from file hosts, torrents, and usenet. Bubbles uses Premiumize and Real-Debrid as its backbone, which provides some awesome Kodi features. Read on for more info.
 
 You can read how to install Bubbles addon from our friend [Kodi Add-ons Expert](https://kodi.expert/bubbles-kodi/) to maintain and preview the content for your website in Markdown files.
 
+## How to install Bubbles Kodi Add-on?
+
+Installation is easy and it's the same way as installing any Kodi Add-on. We have provided a simple guide to install [Bubbles Kodi Add-on](https://kodi.expert/bubbles-kodi/). In 5 minutes you will be able to use it as you like.
 
 ### Bubbles is the best Kodi Add-on but you need to be a PRO to configure it
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is the latest changelog for Bubbles Kodi Add-on:
 
 ```markdown
 #Bubbles Kodi Addon v2.4 Change Log
@@ -22,20 +25,9 @@ Fixed Premiumize hoster domain detection.
 Update downloader and added navigation for other downloads.
 Many small changes, updates, and bug fixes.
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Bubbles? Check out our [Kodi Expert](https://kodi.expert/) and we’ll help you sort it out.
