@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Bubbles for Kodi
 
 You can use the [editor on GitHub](https://github.com/bubblesaddon/Bubbles/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
