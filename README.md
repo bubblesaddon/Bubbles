@@ -9,7 +9,7 @@ You can always learn how to install the latest version of Bubbles Kodi addon fro
 Installation is easy and it's the same way as installing any Kodi Add-on. We have provided a simple guide to install [Bubbles Kodi Add-on](https://kodi.expert/bubbles-kodi/). In 5 minutes you will be able to use it as you like.
 
 ### Bubbles is the best Kodi Add-on but you need to be a PRO to configure it
-Lucky for you we also provide a complete guide to [configure Bubbles like a PRO] (https://kodi.expert/configure-bubbles-kodi-addon-like-pro/) on the same kodi add-ons section of the site.
+Lucky for you we also provide a complete guide to [configure Bubbles like a PRO](https://kodi.expert/configure-bubbles-kodi-addon-like-pro/) on the same kodi add-ons section of the site.
 
 Here is the latest changelog for Bubbles Kodi Add-on:
 
