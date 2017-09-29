@@ -2,13 +2,14 @@
 
 The new Bubble Kodi add-on brings a large streaming movie and TV show add-on from file hosts, torrents, and usenet. Bubbles uses Premiumize and Real-Debrid as its backbone, which provides some awesome Kodi features. Read on for more info.
 
-You can read how to install Bubbles addon from our friend [Kodi Add-ons Expert](https://kodi.expert/bubbles-kodi/) to maintain and preview the content for your website in Markdown files.
+You can always learn how to install the latest version of Bubbles Kodi addon from our friend [Kodi Add-ons Expert](https://kodi.expert/bubbles-kodi/)
 
 ## How to install Bubbles Kodi Add-on?
 
 Installation is easy and it's the same way as installing any Kodi Add-on. We have provided a simple guide to install [Bubbles Kodi Add-on](https://kodi.expert/bubbles-kodi/). In 5 minutes you will be able to use it as you like.
 
 ### Bubbles is the best Kodi Add-on but you need to be a PRO to configure it
+Lucky for you we also provide a complete guide to [configure Bubbles like a PRO] (https://kodi.expert/configure-bubbles-kodi-addon-like-pro/) on the same kodi add-ons section of the site.
 
 Here is the latest changelog for Bubbles Kodi Add-on:
 
