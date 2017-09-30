@@ -14,17 +14,22 @@ Lucky for you we also provide a complete guide to [configure Bubbles like a PRO]
 Here is the latest changelog for Bubbles Kodi Add-on:
 
 ```markdown
-#Bubbles Kodi Addon v2.4 Change Log
+#Bubbles Kodi Addon Change Log
 
-Added local Kodi library integration
-Added a setting to access the Premiumize API using GET requests
-Improved the automatic scripts during Kodi startup
-Fixed the non-found providers for the custom location.
-Fixed Premiumize usage label and filters.
-Updated the Premiumize hoster list.
-Fixed Premiumize hoster domain detection.
-Update downloader and added navigation for other downloads.
-Many small changes, updates, and bug fixes.
+2.4.1 (2017.08.15)
+- Fixed the Premiumize link length infinite loop.
+
+2.4.0 (2017.08.15)
+- Added local Kodi library integration.
+- Added a setting to access the Premiumize API using GET requests.
+- Improved the automatic scripts during Kodi startup.
+- Fixed the non-found poviders for the custom location.
+- Fixed Premiumize usage label and filters.
+- Updated the Premiumize hoster list.
+- Fixed Premiumize hoster domain detection.
+- Update downloader and added navigation for other downloads.
+- Many small changes, updates, and bug fixes.
+
 
 ```
 
