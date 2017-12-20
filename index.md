@@ -16,6 +16,15 @@ Here is the latest changelog for Bubbles Kodi Add-on:
 ```markdown
 #Bubbles Kodi Addon Change Log
 
+2.5.0 (2017.12.17)
+- Added support for sorting favourite lists.
+- Fixed the adding of a show range to the local library.
+- Automatically switch on Lightpack on launch.
+- Updated Lightpack settings and launch procedure.
+- Fixed the exact search functionality.
+- Fixed the Trakt show watchlist bug.
+- JSON encoding tool fixed.
+
 2.4.1 (2017.08.15)
 - Fixed the Premiumize link length infinite loop.
 
