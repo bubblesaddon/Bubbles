@@ -1,5 +1,5 @@
 # Welcome to Bubbles for Kodi
-As of 12 January 2018 Bubbles Kodi is now called [Gaia Kodi](http://kodi.expert/gaia-kodi/)
+As of 12 January 2018 Bubbles Kodi is now called [Gaia Kodi](https://kodi.expert/gaia-kodi/)
 
 The new Bubble Kodi add-on brings a large streaming movie and TV show add-on from file hosts, torrents, and usenet. Bubbles uses Premiumize and Real-Debrid as its backbone, which provides some awesome Kodi features. Read on for more info.
 
