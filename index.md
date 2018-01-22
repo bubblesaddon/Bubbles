@@ -518,4 +518,4 @@ Long Live Gaia
 
 ### Support or Contact
 
-Having trouble with Bubbles? Check out our [Kodi Expert](https://kodi.expert/) and we’ll help you sort it out.
+Having trouble with Bubbles? Check out our Kodi Expert and we’ll help you sort it out.
