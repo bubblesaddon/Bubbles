@@ -3,7 +3,7 @@ As of 12 January 2018 Bubbles Kodi is now called [Gaia Kodi](https://kodi.expert
 
 The new Bubble Kodi add-on brings a large streaming movie and TV show add-on from file hosts, torrents, and usenet. Bubbles uses Premiumize and Real-Debrid as its backbone, which provides some awesome Kodi features. Read on for more info.
 
-You can always learn how to install the latest version of Bubbles Kodi addon from our friend [Kodi Expert](https://kodi.expert/bubbles-kodi/)
+You can always learn how to install the latest version of Bubbles Kodi addon from our friend Kodi Expert
 
 ## How to install Bubbles Kodi Add-on?
 
@@ -25,7 +25,7 @@ BUBBLES
 
 4.2.0 (2018.01.06) 
 Final Release 
-Long Live [Gaia](https://kodi.expert/gaia-kodi/) 
+Long Live Gaia
 2.5.0 (2017.12.17) 
 - Added support for sorting favourite lists. 
 - Fixed the adding of a show range to the local library. 
@@ -518,4 +518,4 @@ Long Live [Gaia](https://kodi.expert/gaia-kodi/)
 
 ### Support or Contact
 
-Having trouble with Bubbles? Check out our [Kodi Expert](https://kodi.expert/) and we’ll help you sort it out.
+Having trouble with Bubbles? Check out our Kodi Expert and we’ll help you sort it out.
