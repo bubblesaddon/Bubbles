@@ -15,7 +15,7 @@ Lucky for you we also provide a complete guide to [configure Bubbles like a PRO]
 #### What other Kodi Addons do you recommend??
 The best Kodi Addon in 2018 is [Incursion Kodi](http://kodi.expert/incursion-kodi-addon-install-use-newest-fork-covenant/)
 
-With Bubbles you can watch the latest [fly fishing](https://bestproducts.express/product-category/fishing/fly-fishing/) documentaries.
+With Bubbles you can get discounts on the latest [saltwater fishing](https://fishing.com.se/fishing-reviews/best-saltwater-fishing-braided-line/) .
 
 ```markdown
 #Bubbles Kodi Addon Change Log
